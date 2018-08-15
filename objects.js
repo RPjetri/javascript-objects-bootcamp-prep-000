@@ -1,1 +1,1 @@
-var playlist = { artist:
+var playlist = { Hendrix: "Voodoo Child" };
