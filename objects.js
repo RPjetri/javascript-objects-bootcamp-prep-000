@@ -1,1 +1,2 @@
-var playlist = { Hendrix: "Voodoo Child" };
+var playlist = { "Jimi Hendrix": "Voodoo Child" };
+
